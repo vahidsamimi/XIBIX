@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "prettier": "^2.7.1"
+  },
+  "name": "challenge",
+  "version": "1.0.0",
+  "main": "challenge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vahid Samimi v.samimi@yahoo.com",
+  "license": "ISC",
+  "description": "This is just challenge code ..."
+}
