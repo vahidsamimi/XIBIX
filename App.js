@@ -1,3 +1,4 @@
+// I have put all the functions here for more readability for the reviewer.
 const fs          = require("fs");
 var neighbors     = [];
 
